@@ -9,4 +9,4 @@
 - Working on a chess game with an agent
 
 ## GitHub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=xar-tol&amp;show_icons=true&count_private=true" alt="GitHub Stats"></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xar-tol&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="xar-tol's github stats" /></p>
